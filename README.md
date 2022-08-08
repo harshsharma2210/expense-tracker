@@ -33,7 +33,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Install
 
-1. Run <code>bundle install</code>
+1. Run <code>npm install</code>
 2. Install npm packages as the terminal will prompt you to do
 3. Run npm start
 
