@@ -2,9 +2,9 @@
 
 ![Expense Tracker](https://i.ibb.co/VJjj3Kp/Screenshot-2020-12-18-205600.png)
 
-> Track and group your expenses for better management of your finances. Built for the final Ruby on Rails Capstone project. Made for mobile.
+> Track and group your expenses for better management of your finances.
 
-Created with React.
+Created with React. 
 
 ## Built With
 
